@@ -1,0 +1,25 @@
+.bg_color{
+background-color: #aab3bb;
+}
+.navbar-brand1{
+    /* padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem; */
+    padding:0.35rem ;
+    font-size:1.25rem ;
+    text-decoration: none;
+    white-space: nowrap;
+    color: white;
+}
+:host ::ng-deep table >thead > tr > th > div.mat-sort-header-container{
+    justify-content: center;
+}
+
+.mat-sort-header-container {
+   
+    justify-content: center !important;
+}
+.padding{
+    padding-left: 25px;
+    padding-right: 25px;
+}
